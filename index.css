@@ -514,6 +514,16 @@ input{
     margin-top: 1em;
 }
 
-/* @media screen (max-width: 1201){
+@media screen and (max-width: 1201px){
+    h1{
+        font-size: 8em;
+        margin-top: 1em;
+    }
+    .logo{
+        margin-left: 0;
+    }
+    .cont-carousel{
+        width: 50%;
+    }
     
-} */
+}
